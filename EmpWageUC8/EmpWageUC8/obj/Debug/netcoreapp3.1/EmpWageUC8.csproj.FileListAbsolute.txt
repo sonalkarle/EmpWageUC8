@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\bin\Debug\netcoreapp3.1\EmpWageUC8.exe
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\bin\Debug\netcoreapp3.1\EmpWageUC8.deps.json
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\bin\Debug\netcoreapp3.1\EmpWageUC8.runtimeconfig.json
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\bin\Debug\netcoreapp3.1\EmpWageUC8.runtimeconfig.dev.json
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\bin\Debug\netcoreapp3.1\EmpWageUC8.dll
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\bin\Debug\netcoreapp3.1\EmpWageUC8.pdb
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\obj\Debug\netcoreapp3.1\EmpWageUC8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\obj\Debug\netcoreapp3.1\EmpWageUC8.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\obj\Debug\netcoreapp3.1\EmpWageUC8.AssemblyInfo.cs
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\obj\Debug\netcoreapp3.1\EmpWageUC8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\obj\Debug\netcoreapp3.1\EmpWageUC8.dll
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\obj\Debug\netcoreapp3.1\EmpWageUC8.pdb
+C:\Users\User\source\repos\EMP\EmpwageUC8\EmpWageUC8\EmpWageUC8\obj\Debug\netcoreapp3.1\EmpWageUC8.genruntimeconfig.cache
